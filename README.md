@@ -56,7 +56,7 @@ Time taken to Ship Goods = DATEDIFF(orders[OrderDate], orders[ShippedDate], DAY)
 ![](BIProject_page2.jpg)
 
 ## Conclusion and Recommendation
-- The project was a very interesting one and building the dashboards was even more interesting. From our analysis on the dashboards, we can see that the category of product that brought in the highest revenue is the beverage category which yielded $287,000 in revenue.
+- The project was a very interesting one and building the dashboard was even more interesting. From our analysis on the dashboards, we can see that the category of product that brought in the highest revenue is the beverage category which yielded $287,000 in revenue.
 - It was also recorded as the category given the most discounts. The most sales of the company were made in the month of April and in the year 2014 with the least being recorded in the month of June.
 - The Northwind customer base is seen to be scattered around the globe mostly in Europe and then South America and North America continents.
 - Among the three shipping companies used, united package shipping was recorded with the highest freight and the mostly preferred by customers of the company.
